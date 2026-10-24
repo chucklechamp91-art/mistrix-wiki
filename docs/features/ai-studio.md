@@ -1,3 +1,4 @@
+
 ---
 title: AI Studio
 description: The standalone image and video generator - the three image slots, your daily allowance, and the private gallery.
